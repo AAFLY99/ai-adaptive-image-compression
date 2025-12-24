@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 🧠 AI Adaptive Image Compression with OCR
 
 An AI-based adaptive image compression system that intelligently preserves
