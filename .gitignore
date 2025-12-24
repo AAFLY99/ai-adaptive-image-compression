@@ -1,0 +1,22 @@
+# IDE & Environment
+.idea/
+.venv/
+
+# Data
+dataset/
+processed/
+outputs/
+
+# Models
+models/*.keras
+models/*.h5
+
+# Cache
+__pycache__/
+*.pyc
+
+# Images
+*.jpg
+*.png
+*.jpeg
+*.gif
